@@ -1,7 +1,7 @@
 // c++ program to explain
 // Encapsulation
  
-#include<iostream>
+#include "test.h"
 using namespace std;
  
 class Encapsulation
