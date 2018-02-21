@@ -1,3 +1,4 @@
 #include<iostream>
+#include<bits/stdc++.h>
 //macro definition
-#define LIMIT 5
+const int MAX_CHAR = 26;
