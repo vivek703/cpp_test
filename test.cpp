@@ -58,7 +58,9 @@ string missingChars(string str)
 int main()
 {
     Encapsulation obj;
-     
+    string str = "The quick brown fox jumps "
+                 "over the dog";
+    cout << missingChars(str);
     obj.set(5);
      
     cout<<obj.get();
